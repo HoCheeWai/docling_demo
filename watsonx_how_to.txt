@@ -2,10 +2,10 @@
 
 Go to IBM Cloud Home Page
 Click on +
-Click on Watsonx
+Click on watsonx
 Click on Launch
-Select Project from the "Project or deployment space" drop-down list. Create API Key if necessary.
-Create on your profile icon, goto User API key
+Select Project from the "Project or deployment space" drop-down list
+Create API Key. Click on your profile icon at the top right, click on Profile and settings, click User API key
 
 How to create a WatsonX project?
 

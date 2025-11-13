@@ -1,0 +1,7 @@
+In order to access the Google Gen AI, you must create a Google API Key.
+
+How to do this?
+
+1. Login into Google.
+2. Go to https://aistudio.google.com/
+3. Click on Create API key

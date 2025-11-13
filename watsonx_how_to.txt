@@ -5,7 +5,7 @@ Click on +
 Click on watsonx
 Click on Launch
 Select Project from the "Project or deployment space" drop-down list
-Create API Key. Click on your profile icon at the top right, click on Profile and settings, click User API key
+Create API Key. Click on your profile icon at the top right, click on Profile and settings, click on User API key
 
 How to create a WatsonX project?
 
